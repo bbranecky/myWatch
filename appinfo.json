@@ -1,0 +1,98 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bbranecky@yahoo.com",
+    "longName": "MyAppOne",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/ManilaSans-Bold40.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_40",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_22",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_26",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_36",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_34",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_32",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_30",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_28",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:,A-Za-z()]",
+                "file": "fonts/ManilaSans-Bold2.ttf",
+                "name": "FONT_MANILA_SANS_BOLD_25",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/MyApp.png",
+                "menuIcon": true,
+                "name": "menuImage",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MyApp1",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "d6ab28f2-f077-46c1-b2fc-9707e2cb834c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
